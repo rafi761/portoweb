@@ -9,9 +9,7 @@ export default function Home() {
     <main className="relative w-full min-h-screen">
       <Navbar />
       <Hero />
-      <Services />
-      {/* <Pricing /> */}
-      <Footer />
+
     </main>
   );
 }
