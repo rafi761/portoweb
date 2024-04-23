@@ -1,6 +1,6 @@
 import Image from "next/image"
 import { Montserrat } from "next/font/google"
-import RootButton from "../Root/RootButton";
+import RootButton from '@/components/Root/RootButton';
 
 const bebas = Montserrat({ subsets: ["latin"] });
 

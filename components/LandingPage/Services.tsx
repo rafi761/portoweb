@@ -1,4 +1,4 @@
-import Card from "../Root/Card"
+import Card from "@/components/Root/Card"
 
 const Services = () => {
     return (
